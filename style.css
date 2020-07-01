@@ -1,0 +1,276 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+.half-width h1
+{
+    font-size: 30px;
+    margin-left: 180px;
+    margin-top: 69px;
+        
+}
+
+.name_highlight 
+{
+    color: #F52887;
+    font-size: 35px;    
+}
+
+.half-width p
+{
+    color: gray;
+    font-size: small;
+    margin-left: 180px;
+    margin-top: 22px;
+}
+
+.half-width a
+{
+    margin-left: 180px;
+    margin-top: 22px;
+}
+
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    margin-top: 10%;    
+}
+
+.half-width img
+{
+    width: 90%;
+    
+}
+
+.top-banner
+{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-color: white;     
+}
+
+section
+{
+    height: 500px;
+    padding-bottom: 150px;    
+}
+
+.link-button
+{
+    text-decoration: none;
+    font-size: small;
+    background-image: linear-gradient(180deg,#F660AB, #F52887);
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.biography
+{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-color: white;    
+}
+
+.half-width2
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.half-width2 img
+{
+    width: 110%;    
+}
+
+.half-width2 h2
+{
+    margin-top: 130px;    
+}
+
+.half-width2 p
+{
+    color: gray;
+    font-size: small;
+    margin-top: 33px;
+    margin-right: 30px;
+}
+
+.link-button2
+{
+    text-decoration: none;
+    font-size: small;
+    background-image: linear-gradient(180deg, #F660AB, #F52887);
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.my-latest-work
+{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-color: white;
+}
+
+.my-work
+{
+    width: 26%;
+    float: left;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.my-work img
+{
+    width: 80%;
+    margin-top: 130px;
+    margin-right: 90px;
+    margin-left: 70px;
+}
+
+#latest-work
+{
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.experience-area
+{
+    width: 95%;
+    margin-top: 120px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: white;
+}
+
+.half-width3
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width3 h3
+{
+    color: orange;
+}
+
+.expe
+{
+    margin-left: 7%;
+}
+
+.single-experience
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    background-color: white;
+}
+
+#full-stack
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#baby-web
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+.client-feedback
+{
+    width: 95%;
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-color: white;
+    margin-bottom: 300px;
+}
+
+.client1
+{
+    color: black;
+    font-size: x-large;
+    font-weight: 900;
+    margin-top: 120px;
+}
+
+.client2
+{
+    margin-top: 110px;
+}
+
+.client2 h4
+{
+    font-size: medium;
+    color: rgb(46, 43, 43);
+    border-top: 50px;
+}
+
+.client2 p
+{
+    font-size: smaller;
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.client3
+{
+    color: rgb(65, 61, 61);
+    font-size: smaller;
+    margin-bottom: 100px;
+}
+
+.client4 p
+{
+    background-image: linear-gradient(180deg, #F660AB ,#F52887); 
+    margin-left: 500px;
+    margin-right: 450px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.client4 a
+{
+    text-decoration: none;
+    font-size: medium;
+    color: white;
+}
+.client4 p
+{
+    color: white;
+    font-size: smaller;
+}
+
+.client5
+{
+    color: rgb(170, 146, 146);
+    font-size: smaller;
+    margin-top: 200px;
+}
+
+
+
+
